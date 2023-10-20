@@ -1,4 +1,4 @@
-# -Pict0JAVA
+# Pict0JAVA
 
 ![image](https://github.com/CharlyJSX/-Pict0JAVA/assets/77645310/31a7f4ba-f290-4a82-9dd7-c989501c99a6)
 
